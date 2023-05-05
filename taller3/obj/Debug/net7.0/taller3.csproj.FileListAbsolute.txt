@@ -1,0 +1,130 @@
+D:\Asignaturas\Construccion de software IV\Codigos\WEB Y APIS\taller3\bin\Debug\net7.0\appsettings.Development.json
+D:\Asignaturas\Construccion de software IV\Codigos\WEB Y APIS\taller3\bin\Debug\net7.0\appsettings.json
+D:\Asignaturas\Construccion de software IV\Codigos\WEB Y APIS\taller3\bin\Debug\net7.0\taller3.exe
+D:\Asignaturas\Construccion de software IV\Codigos\WEB Y APIS\taller3\bin\Debug\net7.0\taller3.deps.json
+D:\Asignaturas\Construccion de software IV\Codigos\WEB Y APIS\taller3\bin\Debug\net7.0\taller3.runtimeconfig.json
+D:\Asignaturas\Construccion de software IV\Codigos\WEB Y APIS\taller3\bin\Debug\net7.0\taller3.dll
+D:\Asignaturas\Construccion de software IV\Codigos\WEB Y APIS\taller3\bin\Debug\net7.0\taller3.pdb
+D:\Asignaturas\Construccion de software IV\Codigos\WEB Y APIS\taller3\obj\Debug\net7.0\taller3.csproj.AssemblyReference.cache
+D:\Asignaturas\Construccion de software IV\Codigos\WEB Y APIS\taller3\obj\Debug\net7.0\taller3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Asignaturas\Construccion de software IV\Codigos\WEB Y APIS\taller3\obj\Debug\net7.0\taller3.AssemblyInfoInputs.cache
+D:\Asignaturas\Construccion de software IV\Codigos\WEB Y APIS\taller3\obj\Debug\net7.0\taller3.AssemblyInfo.cs
+D:\Asignaturas\Construccion de software IV\Codigos\WEB Y APIS\taller3\obj\Debug\net7.0\taller3.csproj.CoreCompileInputs.cache
+D:\Asignaturas\Construccion de software IV\Codigos\WEB Y APIS\taller3\obj\Debug\net7.0\taller3.MvcApplicationPartsAssemblyInfo.cache
+D:\Asignaturas\Construccion de software IV\Codigos\WEB Y APIS\taller3\obj\Debug\net7.0\staticwebassets\msbuild.taller3.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Asignaturas\Construccion de software IV\Codigos\WEB Y APIS\taller3\obj\Debug\net7.0\staticwebassets\msbuild.build.taller3.props
+D:\Asignaturas\Construccion de software IV\Codigos\WEB Y APIS\taller3\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.taller3.props
+D:\Asignaturas\Construccion de software IV\Codigos\WEB Y APIS\taller3\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.taller3.props
+D:\Asignaturas\Construccion de software IV\Codigos\WEB Y APIS\taller3\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Asignaturas\Construccion de software IV\Codigos\WEB Y APIS\taller3\obj\Debug\net7.0\staticwebassets.build.json
+D:\Asignaturas\Construccion de software IV\Codigos\WEB Y APIS\taller3\obj\Debug\net7.0\staticwebassets.development.json
+D:\Asignaturas\Construccion de software IV\Codigos\WEB Y APIS\taller3\obj\Debug\net7.0\scopedcss\bundle\taller3.styles.css
+D:\Asignaturas\Construccion de software IV\Codigos\WEB Y APIS\taller3\obj\Debug\net7.0\taller3.dll
+D:\Asignaturas\Construccion de software IV\Codigos\WEB Y APIS\taller3\obj\Debug\net7.0\refint\taller3.dll
+D:\Asignaturas\Construccion de software IV\Codigos\WEB Y APIS\taller3\obj\Debug\net7.0\taller3.pdb
+D:\Asignaturas\Construccion de software IV\Codigos\WEB Y APIS\taller3\obj\Debug\net7.0\taller3.genruntimeconfig.cache
+D:\Asignaturas\Construccion de software IV\Codigos\WEB Y APIS\taller3\obj\Debug\net7.0\ref\taller3.dll
+E:\Asignaturas\Construccion de software IV\Codigos\WEB Y APIS\taller3\bin\Debug\net7.0\appsettings.Development.json
+E:\Asignaturas\Construccion de software IV\Codigos\WEB Y APIS\taller3\bin\Debug\net7.0\appsettings.json
+E:\Asignaturas\Construccion de software IV\Codigos\WEB Y APIS\taller3\bin\Debug\net7.0\taller3.exe
+E:\Asignaturas\Construccion de software IV\Codigos\WEB Y APIS\taller3\bin\Debug\net7.0\taller3.deps.json
+E:\Asignaturas\Construccion de software IV\Codigos\WEB Y APIS\taller3\bin\Debug\net7.0\taller3.runtimeconfig.json
+E:\Asignaturas\Construccion de software IV\Codigos\WEB Y APIS\taller3\bin\Debug\net7.0\taller3.dll
+E:\Asignaturas\Construccion de software IV\Codigos\WEB Y APIS\taller3\bin\Debug\net7.0\taller3.pdb
+E:\Asignaturas\Construccion de software IV\Codigos\WEB Y APIS\taller3\obj\Debug\net7.0\taller3.csproj.AssemblyReference.cache
+E:\Asignaturas\Construccion de software IV\Codigos\WEB Y APIS\taller3\obj\Debug\net7.0\taller3.GeneratedMSBuildEditorConfig.editorconfig
+E:\Asignaturas\Construccion de software IV\Codigos\WEB Y APIS\taller3\obj\Debug\net7.0\taller3.AssemblyInfoInputs.cache
+E:\Asignaturas\Construccion de software IV\Codigos\WEB Y APIS\taller3\obj\Debug\net7.0\taller3.AssemblyInfo.cs
+E:\Asignaturas\Construccion de software IV\Codigos\WEB Y APIS\taller3\obj\Debug\net7.0\taller3.csproj.CoreCompileInputs.cache
+E:\Asignaturas\Construccion de software IV\Codigos\WEB Y APIS\taller3\obj\Debug\net7.0\taller3.MvcApplicationPartsAssemblyInfo.cache
+E:\Asignaturas\Construccion de software IV\Codigos\WEB Y APIS\taller3\obj\Debug\net7.0\staticwebassets\msbuild.taller3.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Asignaturas\Construccion de software IV\Codigos\WEB Y APIS\taller3\obj\Debug\net7.0\staticwebassets\msbuild.build.taller3.props
+E:\Asignaturas\Construccion de software IV\Codigos\WEB Y APIS\taller3\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.taller3.props
+E:\Asignaturas\Construccion de software IV\Codigos\WEB Y APIS\taller3\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.taller3.props
+E:\Asignaturas\Construccion de software IV\Codigos\WEB Y APIS\taller3\obj\Debug\net7.0\staticwebassets.pack.json
+E:\Asignaturas\Construccion de software IV\Codigos\WEB Y APIS\taller3\obj\Debug\net7.0\staticwebassets.build.json
+E:\Asignaturas\Construccion de software IV\Codigos\WEB Y APIS\taller3\obj\Debug\net7.0\staticwebassets.development.json
+E:\Asignaturas\Construccion de software IV\Codigos\WEB Y APIS\taller3\obj\Debug\net7.0\scopedcss\bundle\taller3.styles.css
+E:\Asignaturas\Construccion de software IV\Codigos\WEB Y APIS\taller3\obj\Debug\net7.0\taller3.dll
+E:\Asignaturas\Construccion de software IV\Codigos\WEB Y APIS\taller3\obj\Debug\net7.0\refint\taller3.dll
+E:\Asignaturas\Construccion de software IV\Codigos\WEB Y APIS\taller3\obj\Debug\net7.0\taller3.pdb
+E:\Asignaturas\Construccion de software IV\Codigos\WEB Y APIS\taller3\obj\Debug\net7.0\taller3.genruntimeconfig.cache
+E:\Asignaturas\Construccion de software IV\Codigos\WEB Y APIS\taller3\obj\Debug\net7.0\ref\taller3.dll
+D:\taller3\bin\Debug\net7.0\appsettings.Development.json
+D:\taller3\bin\Debug\net7.0\appsettings.json
+D:\taller3\bin\Debug\net7.0\taller3.exe
+D:\taller3\bin\Debug\net7.0\taller3.deps.json
+D:\taller3\bin\Debug\net7.0\taller3.runtimeconfig.json
+D:\taller3\bin\Debug\net7.0\taller3.dll
+D:\taller3\bin\Debug\net7.0\taller3.pdb
+D:\taller3\obj\Debug\net7.0\taller3.csproj.AssemblyReference.cache
+D:\taller3\obj\Debug\net7.0\taller3.GeneratedMSBuildEditorConfig.editorconfig
+D:\taller3\obj\Debug\net7.0\taller3.AssemblyInfoInputs.cache
+D:\taller3\obj\Debug\net7.0\taller3.AssemblyInfo.cs
+D:\taller3\obj\Debug\net7.0\taller3.csproj.CoreCompileInputs.cache
+D:\taller3\obj\Debug\net7.0\taller3.MvcApplicationPartsAssemblyInfo.cache
+D:\taller3\obj\Debug\net7.0\staticwebassets\msbuild.taller3.Microsoft.AspNetCore.StaticWebAssets.props
+D:\taller3\obj\Debug\net7.0\staticwebassets\msbuild.build.taller3.props
+D:\taller3\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.taller3.props
+D:\taller3\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.taller3.props
+D:\taller3\obj\Debug\net7.0\staticwebassets.pack.json
+D:\taller3\obj\Debug\net7.0\staticwebassets.build.json
+D:\taller3\obj\Debug\net7.0\staticwebassets.development.json
+D:\taller3\obj\Debug\net7.0\scopedcss\bundle\taller3.styles.css
+D:\taller3\obj\Debug\net7.0\taller3.dll
+D:\taller3\obj\Debug\net7.0\refint\taller3.dll
+D:\taller3\obj\Debug\net7.0\taller3.pdb
+D:\taller3\obj\Debug\net7.0\taller3.genruntimeconfig.cache
+D:\taller3\obj\Debug\net7.0\ref\taller3.dll
+D:\5 -QUINTO SEMESTRE\Construccion de Software lV\Trabajos\taller3\obj\Debug\net7.0\taller3.csproj.AssemblyReference.cache
+D:\5 -QUINTO SEMESTRE\Construccion de Software lV\Trabajos\taller3\obj\Debug\net7.0\taller3.GeneratedMSBuildEditorConfig.editorconfig
+D:\5 -QUINTO SEMESTRE\Construccion de Software lV\Trabajos\taller3\obj\Debug\net7.0\taller3.AssemblyInfoInputs.cache
+D:\5 -QUINTO SEMESTRE\Construccion de Software lV\Trabajos\taller3\obj\Debug\net7.0\taller3.AssemblyInfo.cs
+D:\5 -QUINTO SEMESTRE\Construccion de Software lV\Trabajos\taller3\obj\Debug\net7.0\taller3.csproj.CoreCompileInputs.cache
+D:\5 -QUINTO SEMESTRE\Construccion de Software lV\Trabajos\taller3\obj\Debug\net7.0\taller3.MvcApplicationPartsAssemblyInfo.cache
+D:\5 -QUINTO SEMESTRE\Construccion de Software lV\Trabajos\taller3\obj\Debug\net7.0\taller3.dll
+D:\5 -QUINTO SEMESTRE\Construccion de Software lV\Trabajos\taller3\obj\Debug\net7.0\refint\taller3.dll
+D:\5 -QUINTO SEMESTRE\Construccion de Software lV\Trabajos\taller3\obj\Debug\net7.0\taller3.pdb
+D:\5 -QUINTO SEMESTRE\Construccion de Software lV\Trabajos\taller3\bin\Debug\net7.0\appsettings.Development.json
+D:\5 -QUINTO SEMESTRE\Construccion de Software lV\Trabajos\taller3\bin\Debug\net7.0\appsettings.json
+D:\5 -QUINTO SEMESTRE\Construccion de Software lV\Trabajos\taller3\bin\Debug\net7.0\taller3.exe
+D:\5 -QUINTO SEMESTRE\Construccion de Software lV\Trabajos\taller3\bin\Debug\net7.0\taller3.deps.json
+D:\5 -QUINTO SEMESTRE\Construccion de Software lV\Trabajos\taller3\bin\Debug\net7.0\taller3.runtimeconfig.json
+D:\5 -QUINTO SEMESTRE\Construccion de Software lV\Trabajos\taller3\bin\Debug\net7.0\taller3.dll
+D:\5 -QUINTO SEMESTRE\Construccion de Software lV\Trabajos\taller3\bin\Debug\net7.0\taller3.pdb
+D:\5 -QUINTO SEMESTRE\Construccion de Software lV\Trabajos\taller3\obj\Debug\net7.0\staticwebassets\msbuild.taller3.Microsoft.AspNetCore.StaticWebAssets.props
+D:\5 -QUINTO SEMESTRE\Construccion de Software lV\Trabajos\taller3\obj\Debug\net7.0\staticwebassets\msbuild.build.taller3.props
+D:\5 -QUINTO SEMESTRE\Construccion de Software lV\Trabajos\taller3\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.taller3.props
+D:\5 -QUINTO SEMESTRE\Construccion de Software lV\Trabajos\taller3\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.taller3.props
+D:\5 -QUINTO SEMESTRE\Construccion de Software lV\Trabajos\taller3\obj\Debug\net7.0\staticwebassets.pack.json
+D:\5 -QUINTO SEMESTRE\Construccion de Software lV\Trabajos\taller3\obj\Debug\net7.0\staticwebassets.build.json
+D:\5 -QUINTO SEMESTRE\Construccion de Software lV\Trabajos\taller3\obj\Debug\net7.0\staticwebassets.development.json
+D:\5 -QUINTO SEMESTRE\Construccion de Software lV\Trabajos\taller3\obj\Debug\net7.0\scopedcss\bundle\taller3.styles.css
+D:\5 -QUINTO SEMESTRE\Construccion de Software lV\Trabajos\taller3\obj\Debug\net7.0\taller3.genruntimeconfig.cache
+D:\5 -QUINTO SEMESTRE\Construccion de Software lV\Trabajos\taller3\obj\Debug\net7.0\ref\taller3.dll
+F:\5 -QUINTO SEMESTRE\Construccion de Software lV\Trabajos\taller3\bin\Debug\net7.0\appsettings.Development.json
+F:\5 -QUINTO SEMESTRE\Construccion de Software lV\Trabajos\taller3\bin\Debug\net7.0\appsettings.json
+F:\5 -QUINTO SEMESTRE\Construccion de Software lV\Trabajos\taller3\bin\Debug\net7.0\taller3.exe
+F:\5 -QUINTO SEMESTRE\Construccion de Software lV\Trabajos\taller3\bin\Debug\net7.0\taller3.deps.json
+F:\5 -QUINTO SEMESTRE\Construccion de Software lV\Trabajos\taller3\bin\Debug\net7.0\taller3.runtimeconfig.json
+F:\5 -QUINTO SEMESTRE\Construccion de Software lV\Trabajos\taller3\bin\Debug\net7.0\taller3.dll
+F:\5 -QUINTO SEMESTRE\Construccion de Software lV\Trabajos\taller3\bin\Debug\net7.0\taller3.pdb
+F:\5 -QUINTO SEMESTRE\Construccion de Software lV\Trabajos\taller3\obj\Debug\net7.0\taller3.csproj.AssemblyReference.cache
+F:\5 -QUINTO SEMESTRE\Construccion de Software lV\Trabajos\taller3\obj\Debug\net7.0\taller3.GeneratedMSBuildEditorConfig.editorconfig
+F:\5 -QUINTO SEMESTRE\Construccion de Software lV\Trabajos\taller3\obj\Debug\net7.0\taller3.AssemblyInfoInputs.cache
+F:\5 -QUINTO SEMESTRE\Construccion de Software lV\Trabajos\taller3\obj\Debug\net7.0\taller3.AssemblyInfo.cs
+F:\5 -QUINTO SEMESTRE\Construccion de Software lV\Trabajos\taller3\obj\Debug\net7.0\taller3.csproj.CoreCompileInputs.cache
+F:\5 -QUINTO SEMESTRE\Construccion de Software lV\Trabajos\taller3\obj\Debug\net7.0\taller3.MvcApplicationPartsAssemblyInfo.cache
+F:\5 -QUINTO SEMESTRE\Construccion de Software lV\Trabajos\taller3\obj\Debug\net7.0\staticwebassets\msbuild.taller3.Microsoft.AspNetCore.StaticWebAssets.props
+F:\5 -QUINTO SEMESTRE\Construccion de Software lV\Trabajos\taller3\obj\Debug\net7.0\staticwebassets\msbuild.build.taller3.props
+F:\5 -QUINTO SEMESTRE\Construccion de Software lV\Trabajos\taller3\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.taller3.props
+F:\5 -QUINTO SEMESTRE\Construccion de Software lV\Trabajos\taller3\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.taller3.props
+F:\5 -QUINTO SEMESTRE\Construccion de Software lV\Trabajos\taller3\obj\Debug\net7.0\staticwebassets.pack.json
+F:\5 -QUINTO SEMESTRE\Construccion de Software lV\Trabajos\taller3\obj\Debug\net7.0\staticwebassets.build.json
+F:\5 -QUINTO SEMESTRE\Construccion de Software lV\Trabajos\taller3\obj\Debug\net7.0\staticwebassets.development.json
+F:\5 -QUINTO SEMESTRE\Construccion de Software lV\Trabajos\taller3\obj\Debug\net7.0\scopedcss\bundle\taller3.styles.css
+F:\5 -QUINTO SEMESTRE\Construccion de Software lV\Trabajos\taller3\obj\Debug\net7.0\taller3.dll
+F:\5 -QUINTO SEMESTRE\Construccion de Software lV\Trabajos\taller3\obj\Debug\net7.0\refint\taller3.dll
+F:\5 -QUINTO SEMESTRE\Construccion de Software lV\Trabajos\taller3\obj\Debug\net7.0\taller3.pdb
+F:\5 -QUINTO SEMESTRE\Construccion de Software lV\Trabajos\taller3\obj\Debug\net7.0\taller3.genruntimeconfig.cache
+F:\5 -QUINTO SEMESTRE\Construccion de Software lV\Trabajos\taller3\obj\Debug\net7.0\ref\taller3.dll
